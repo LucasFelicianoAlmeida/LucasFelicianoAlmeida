@@ -1,11 +1,13 @@
 ### Hi there, I'm Lucas Teixeira ✌
 - Programmer that do not drink coffee.
-Skills
- Mobile
+* Skills
+Mobile
 - Xamarin Forms
+
 Web
 - Angular
 - React
+- 
 Backend
 - Entity Framework
 - Entity Framework Core
