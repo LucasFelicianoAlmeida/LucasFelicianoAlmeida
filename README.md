@@ -1,21 +1,20 @@
-### Hi there, I'm Lucas Teixeira ✌
-- Programmer that do not drink coffee.
-* Skills
+
+### A programmer that do not drink coffee COF COF.
+### Skills
 Mobile
 - Xamarin Forms
 
 Web
 - Angular
 - React
-- 
+
 Backend
 - Entity Framework
 - Entity Framework Core
-
 Desktop 
 - Wpf
 - Windows Forms
-- 
+
 - ### I am 19 years old
 - I am found of backend, mobile and web development.
 - My current goal is:
