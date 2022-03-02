@@ -1,9 +1,23 @@
 ### Hi there, I'm Lucas Teixeira ✌
+- Programmer that do not drink coffee.
+Skills
+ Mobile
+- Xamarin Forms
+Web
+- Angular
+- React
+Backend
+- Entity Framework
+- Entity Framework Core
 
-### I am 19 years old
-- I am in love with Mobile Development, specifically right now using Xamarin Forms
+Desktop 
+- Wpf
+- Windows Forms
+- 
+- ### I am 19 years old
+- I am found of backend, mobile and web development.
 - My current goal is:
     * Apply my Mobile knowledge in some project
     * Network with people
     * Learn more about mobile stuff
-- 🍕 About me,  I like learning both artificial and natural languages as English, French...
+- 🍕 About me,  I like learning both artificial and natural languages.
