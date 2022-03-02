@@ -12,14 +12,14 @@ Backend
 - Entity Framework
 - Entity Framework Core
 
+DataBase
+- MSSQL
+
 Desktop 
 - Wpf
 - Windows Forms
 
-- ### I am 19 years old
-- I am found of backend, mobile and web development.
-- My current goal is:
-    * Apply my Mobile knowledge in some project
-    * Network with people
-    * Learn more about mobile stuff
-- 🍕 About me,  I like learning both artificial and natural languages.
+
+### About Me
+After graduating in techinical course I competed and got first place in It Software Solutions for Businness statewide. I trained for 1 year and two months and in february I competed nationaly represent state of São Paulo. I ended up getting second place in Brazil.   
+- 🍕 I like solving problems and learning languages.
