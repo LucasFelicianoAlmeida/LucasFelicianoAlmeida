@@ -1,6 +1,9 @@
 
 ### A programmer that do not drink coffee :coffee: COF COF.
 ### Skills
+Backend
+-.NET Asp Net Core
+
 Mobile
 - Xamarin Forms
 
