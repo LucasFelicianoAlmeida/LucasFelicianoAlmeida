@@ -3,6 +3,11 @@
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucass-teixeira&show_icons=true)"/>
 </div>
+
+<div>
+  <h1>Languages used</h1>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</div>
 ### Skills
 Backend
 -.NET Asp Net Core
