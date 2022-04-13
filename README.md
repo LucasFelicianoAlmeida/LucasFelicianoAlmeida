@@ -10,7 +10,11 @@
     <a href="https://lucass-teixeira.github.io/">https://lucass-teixeira.github.io/</a>
   </div>
   <h1>Languages used</h1>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100px" />
+  <div display="flex">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </div>
+  
 </div>
 ### Skills
 Backend
