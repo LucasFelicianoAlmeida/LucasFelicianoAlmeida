@@ -1,7 +1,8 @@
 
 ### A programmer that do not drink coffee :coffee: COF COF.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lucass-teixeira=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?lucass-teixeira=anuraghazra)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
 ### Skills
 Backend
 -.NET Asp Net Core
