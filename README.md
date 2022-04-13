@@ -1,7 +1,7 @@
 
 ### A programmer that do not drink coffee :coffee: COF COF.
 <div>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=lucass-teixeira&show_icons=true)"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucass-teixeira&show_icons=true)"/>
 </div>
 ### Skills
 Backend
