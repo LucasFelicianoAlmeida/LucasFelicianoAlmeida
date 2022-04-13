@@ -15,6 +15,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70px" />
   </div>
   
+  <h2>Frameworks</h2>
+  <div display="flex">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="70px" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70px"/>
+            <i class="devicon-angularjs-plain colored"></i>
+          
+          
+  </div>
+          
+  
 </div>
 ### Skills
 Backend
