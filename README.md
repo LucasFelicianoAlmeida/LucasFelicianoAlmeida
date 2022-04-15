@@ -7,7 +7,7 @@
 <div>
   <h2>Take a look at my website</h2>
   <div>
-    <a href="https://lucass-teixeira.github.io/">My website</a>
+    <h3 href="https://lucass-teixeira.github.io/">My website</h3>
   </div>
   <h2>Languages used</h2>
   <div display="flex">
