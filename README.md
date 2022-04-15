@@ -7,7 +7,7 @@
 <div>
   <h2>Take a look at my website</h2>
   <div>
-    <a height="30px" href="https://lucass-teixeira.github.io/">My website</a>
+    <a height="4rem" href="https://lucass-teixeira.github.io/">My website</a>
   </div>
   <h2>Languages used</h2>
   <div display="flex">
