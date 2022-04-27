@@ -1,5 +1,5 @@
 
-<h1 height="2rem">A programmer that do not drink coffee :coffee: 😄.</h1>
+<h1 height="3rem">A programmer that do not drink coffee :coffee: 😄.</h1>
 
 <div>
   <h2>Take a look at my website</h2>
@@ -12,13 +12,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70px" />
   </div>
   
-  <h2>Frameworks</h2>
+  <h2>FrontEnd</h2>
+  <div display="flex">
+    <i class="devicon-angularjs-plain colored"></i>
+  </div>
+  
+  <h2>Backend</h2>
   <div display="flex">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="70px" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70px"/>
             <i class="devicon-angularjs-plain colored"></i>
-          
-          
+
   </div>
           
   
