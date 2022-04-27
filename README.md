@@ -15,13 +15,10 @@
   <h3>FrontEnd</h3>
   <div display="flex">
      <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-            <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
- 
-           
- 
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   </div>
-
-    <h3>Backend</h3>
+  
+  <h3>Backend</h3>
    <div display="flex">
      
    </div>
