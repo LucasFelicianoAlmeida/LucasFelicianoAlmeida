@@ -4,7 +4,7 @@
   </header>
 <h1 height="3rem">A programmer that do not drink coffee :coffee: 😄.</h1>
   <h3> About Me </h3>
-<p>After graduating in techinical course I competed and got first place in It Software Solutions for Businness statewide. I trained for 1 year and two months and in february I competed nationaly representing state of São Paulo. I ended up getting second place in Brazil.</p>
+<p>I am fond of learning new things. I competed nationaly representing state of São Paulo in IT Software Solutions for Businness. The ending results came out and I took second place.</p>
   <ul>
     <li> Second Place in Software Solutions for Businness Brazil <a href="http://senai-to.com.br/Noticia.aspx?c=2a92e913-c81a-46f1-8812-9977f5bdf88c">(national)</a></li>
     <li>🍕 I like solving problems and learning languages.</li>
