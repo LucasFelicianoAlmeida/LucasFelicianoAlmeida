@@ -16,17 +16,21 @@
   <div display="flex">
      <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
      <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+       
   </div>
   
   <h3>Backend</h3>
    <div display="flex">
-     
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg" />
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />   
    </div>
+  
   <h3>Mobile</h3>
   <div display="flex">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40px" />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px"/>
-            <i class="devicon-angularjs-plain colored"></i>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40px" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px"/>
+       
   </div>
 
   
@@ -35,23 +39,7 @@
 </div>
   
 </html>
-### Skills
-Backend
--.NET Asp Net Core
 
-Mobile
-- Xamarin Forms
-
-Web
-- Angular
-- React
-
-Backend
-- Entity Framework
-- Entity Framework Core
-
-DataBase
-- MSSQL
 
 Desktop 
 - Wpf
