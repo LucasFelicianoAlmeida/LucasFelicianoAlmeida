@@ -6,21 +6,21 @@
 
 <div>
   <h2>Take a look at  <a style="font-size: 4rem;" href="https://lucass-teixeira.github.io/">My website</a></h2>
-  <h2>Languages used</h2>
+  <h3>Languages used</h3>
   <div display="flex">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70px" />
   </div>
   
-  <h2>FrontEnd</h2>
+  <h3>FrontEnd</h3>
   <div display="flex">
-    <i height="30px" class="devicon-angularjs-plain colored"></i>
+    <i class="devicon-angularjs-plain colored"></i>
   </div>
-    <h2>Backend</h2>
+    <h3>Backend</h3>
    <div display="flex">
      
    </div>
-  <h2>Mobile</h2>
+  <h3>Mobile</h3>
   <div display="flex">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40px" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px"/>
