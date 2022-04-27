@@ -1,8 +1,5 @@
 
-<h1>A programmer that do not drink coffee :coffee: COF COF.</h1>
-[<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucass-teixeira&show_icons=true)"/>
-</div>](url)
+<h1 height="2rem">A programmer that do not drink coffee :coffee: 😄.</h1>
 
 <div>
   <h2>Take a look at my website</h2>
