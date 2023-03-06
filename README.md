@@ -1,6 +1,27 @@
 # Welcome to my profile. 
 
 ## Visit my [Personal Website](https://lucass-teixeira.github.io//)  still in development
+
+I am web developer that bring UI to life
+
+## Everything I know:
+
+### Web:
+[Angular](https://img.shields.io/badge/Angular-0078D4?style=for-the-badge&logo=angular&color=darkred)
+
+#### Design
+
+
+### Developer Tools:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+
+
+
 <!-- <html>
   <header>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
