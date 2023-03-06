@@ -2,15 +2,24 @@
 
 ## Visit my [Personal Website](https://lucass-teixeira.github.io//)  still in development
 
-I am web developer that bring UI to life
+I am web developer that bring UI to life, get to my work.
 
 ## Everything I know:
 
 ### Web:
-[Angular](https://img.shields.io/badge/Angular-0078D4?style=for-the-badge&logo=angular&color=darkred)
+![Angular](https://img.shields.io/badge/Angular-0078D4?style=for-the-badge&logo=angular&color=darkred)
 
 #### Design
+![figma](https://camo.githubusercontent.com/4a1038affbb2653ec140936555b3714ddc322526be8567b489e8423a795dea18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465)
 
+### Backend
+![dotnet](https://img.shields.io/badge/dotnet-0078D4?style=for-the-badge&logo=dotnet&color=purple)
+![c#](https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=green)
+
+
+## Mobile
+![xamarin](https://img.shields.io/badge/xamarin-239120?style=for-the-badge&logo=xamarin&logoColor=white&color=blue)
+![ionic](https://img.shields.io/badge/ionic-239120?style=for-the-badge&logo=ionic&logoColor=white&color=darkblue)
 
 ### Developer Tools:
 
