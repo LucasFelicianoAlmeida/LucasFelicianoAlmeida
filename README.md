@@ -14,7 +14,7 @@ I am web developer that bring UI to life, get to my work.
 
 ### Backend
 ![dotnet](https://img.shields.io/badge/dotnet-0078D4?style=for-the-badge&logo=dotnet&color=purple)
-![c#](https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=green)
+![c#](https://img.shields.io/badge/c%23%0A-0078D4?style=for-the-badge&logo=c-sharp&color=green)
 
 
 ## Mobile
