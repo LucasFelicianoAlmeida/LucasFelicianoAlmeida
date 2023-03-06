@@ -1,6 +1,6 @@
 # Welcome to my profile. 
 
-## Visit my [Personal Website](https://lucass-teixeira.github.io//)  still in development
+## Visit my [Personal Website](https://lucass-teixeira.github.io//)  (still in development)
 
 I am web developer that bring UI to life, get to my work.
 
@@ -34,6 +34,9 @@ I am web developer that bring UI to life, get to my work.
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
+## Awards
+###Second Place in [Software Solutions for Business](http://senai-to.com.br/Noticia.aspx?c=2a92e913-c81a-46f1-8812-9977f5bdf88c) 🥈
+
 
 
 <!-- <html>
@@ -49,39 +52,7 @@ I am web developer that bring UI to life, get to my work.
     <li>🍕 I like solving problems and learning languages.</li>
   </ul>
 
-<div>
-  <h2>Take a look at  <a style="font-size: 4rem;" href="https://lucass-teixeira.github.io/">My website</a></h2>
-  <h3>Languages</h3>
-  <div display="flex">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px"/> 
-  </div>
-  
-  <h3>FrontEnd</h3>
-  <div display="flex">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-       
-  </div>
-  
-  <h3>Backend</h3>
-   <div display="flex">
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg" />
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />   
-   </div>
-  
-  <h3>Mobile</h3>
-  <div display="flex">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40px" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px"/>
-       
-  </div>
 
-</div>
-  
-</html> -->
 
 
 
