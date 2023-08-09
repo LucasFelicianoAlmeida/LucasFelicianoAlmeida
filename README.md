@@ -1,6 +1,6 @@
 # Welcome to my profile. 
 
-## Visit my [Portifolio](https://lucass-teixeira.github.io//)  (still in development)
+## Visit my [Portifolio](https://portfolio-git-main-lucass-teixeira.vercel.app/)
 
 I am web developer that bring UI to life, get to my work.
 
